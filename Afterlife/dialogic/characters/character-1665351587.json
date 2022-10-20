@@ -1,0 +1,21 @@
+{
+	"color": "#ffd3d913",
+	"description": "A disgruntled middle aged man muttering something about dimensional merges and electric hedgehogs.",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1665351587.json",
+	"mirror_portraits": false,
+	"name": "Ian Brandon Anderson",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://assets/Character_Portraits/IBA.png"
+		}
+	],
+	"scale": 1000,
+	"theme": ""
+}

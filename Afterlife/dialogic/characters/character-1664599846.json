@@ -1,0 +1,21 @@
+{
+	"color": "#ff0ecd6b",
+	"description": "A blacksmith, who also happens to be a worm. How does he smith? No one knows.",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1664599846.json",
+	"mirror_portraits": false,
+	"name": "Jerry",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://assets/Character_Portraits/Jerry.png"
+		}
+	],
+	"scale": 500,
+	"theme": ""
+}

@@ -1,0 +1,119 @@
+{
+	"events": [
+		{
+			"animation": "1-fade_in.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1658644211.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1658638010.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1658638010.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hello there. It seems you have got yourself into quite a pickle. Don't be upset, your fate was just a random act of chance.\n However I guess some would say there is no random chance in our universe.\nWhere are my manners!?!? My name is Igor"
+		},
+		{
+			"character": "character-1658644211.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Where are we? Last thing I remember... wait a minute... I can't remember anything!"
+		},
+		{
+			"character": "character-1658638010.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thats not unusual. Normal really. This place does strange things to the people that end up here.\nThis place is far more than just a jail cell, it is an entire plane of existence that exists separate from whatever place you came from.\nThere are many names for this place. Purgatory, the astral plane, the other side, the beyond.\nThe biggest misconception is that you don't even need to die to end up here. \nYour soul just needs to separate from your body somehow and get caught up by the energies that run this place.\n Psychedelic drugs could do it, astral projection, blunt force trauma, you name it."
+		},
+		{
+			"character": "character-1658644211.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Okay how do I get back to my body?"
+		},
+		{
+			"character": "character-1658638010.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well first you're gonna have to get us out of this jail cell. Normally I'd be willing to help you out.\n However neither of us can do anything while we're stuck in here waiting for 'the alligators' to come harvest our life energy.\nTry talking to the mad man at the top of the prison, maybe he knows a way out.\n If you can get us out then we'll talk some more."
+		},
+		{
+			"animation": "4-fade_out.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1658644211.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "4-fade_out.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1658638010.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1658638147.json",
+		"name": "Igor Intro"
+	}
+}

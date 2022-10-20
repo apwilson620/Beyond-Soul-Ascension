@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/synthpoo.mp3-8040ef6394853851d7b79e0615fe3d50.mp3str"
+
+[deps]
+
+source_file="res://music/synthpoo.mp3"
+dest_files=[ "res://.import/synthpoo.mp3-8040ef6394853851d7b79e0615fe3d50.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

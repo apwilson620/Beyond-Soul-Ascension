@@ -1,0 +1,12 @@
+{
+     "Key": {
+        "ItemCategory": "Important",
+        "StackSize": 99,
+        "Description": "A golden key that can unlock something important."
+     },
+     "Abyss Pearl": {
+        "ItemCategory": "Important",
+        "StackSize": 1,
+        "Description": "A pearl as black as the nights sky. Retrieved from the maw of one of the great time worms."
+     }
+}

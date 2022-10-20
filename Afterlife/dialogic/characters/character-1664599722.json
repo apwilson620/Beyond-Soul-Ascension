@@ -1,0 +1,21 @@
+{
+	"color": "#ff3d8302",
+	"description": "A robed man who appears to be entirely of the material plane, yet somehow resides in the astral realm. Many consider him to absolutely mad, others consider him to be very wise.",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1664599722.json",
+	"mirror_portraits": false,
+	"name": "Mysterious Wizard",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://assets/wizard_01.png"
+		}
+	],
+	"scale": 1000,
+	"theme": ""
+}

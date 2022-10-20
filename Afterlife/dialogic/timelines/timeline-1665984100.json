@@ -1,0 +1,113 @@
+{
+	"events": [
+		{
+			"animation": "1-fade_in.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1664599722.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "1-fade_in.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1658644211.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1658644211.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What can you tell me about this place?"
+		},
+		{
+			"character": "character-1664599722.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This is a soul prison built by a race of interdimensional shapeshifting people known as\n\"The Alligators\". \nThey commonly take the appearance of bipedal reptilians but they can take any form\nthey wish.\nThey gather souls from different dimensions and trap them here so they can\nharvest their emotional energy, they feed off of it, it is what fuels them."
+		},
+		{
+			"character": "character-1658644211.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Are you stuck here too?"
+		},
+		{
+			"character": "character-1664599722.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, I am here by choice. I am conducting research on their operations so that I may prevent\nfurther soul abductions from occurring.\nI must admit though, my data does not suggest that I will be able to make much of a\ndifference any time soon."
+		},
+		{
+			"animation": "4-fade_out.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1664599722.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "4-fade_out.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1658644211.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1665984100.json",
+		"name": "Wizard 3"
+	}
+}
