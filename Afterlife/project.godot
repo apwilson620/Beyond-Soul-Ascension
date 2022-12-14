@@ -212,7 +212,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="2D Afterlife Roleplaying Game"
+config/name="Beyond: Soul Ascension"
 run/main_scene="res://scenes/main_scene.tscn"
 config/icon="res://icon.png"
 
@@ -223,10 +223,6 @@ GLoot="*res://addons/gloot/gloot_autoload.gd"
 JsonData="*res://scripts/JSONData.gd"
 PlayerInventory="*res://scripts/PlayerInventory.gd"
 Slot="*res://scenes/Slot.gd"
-PluginSettings="*res://addons/github-integration/scripts/PluginSettings.gd"
-IconLoaderGithub="*res://addons/github-integration/scripts/IconLoaderGithub.gd"
-UserData="*res://addons/github-integration/scripts/user_data.gd"
-RestHandler="*res://addons/github-integration/scenes/RestHandler.tscn"
 
 [display]
 
@@ -238,7 +234,7 @@ window/stretch/mode="2d"
 
 [editor_plugins]
 
-enabled=PoolStringArray( "res://addons/anima/plugin.cfg", "res://addons/dialogic/plugin.cfg", "res://addons/github-integration/plugin.cfg", "res://addons/gloot/plugin.cfg" )
+enabled=PoolStringArray( "res://addons/anima/plugin.cfg", "res://addons/dialogic/plugin.cfg" )
 
 [input]
 
