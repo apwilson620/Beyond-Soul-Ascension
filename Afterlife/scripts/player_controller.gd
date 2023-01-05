@@ -7,11 +7,11 @@ var idle_direction = false
 var speed : int = 400
 var half_speed : int = 200
 var fall_speed : int = 800
-var jump_speed : int = -1500 #if you change this remember to change worm digestion fall speed at bottom of file
+var jump_speed : int = -1500 #if you change this remember to change worm digestion fall speed at bottom of file, should be -1500
 var gravity : int = 100
 var velocity = Vector2()
 var jump_num = 0
-var can_dub_jump = false
+var can_dub_jump = false #remember to make false later
 
 func get_input(delta):
 	velocity.x = 0
